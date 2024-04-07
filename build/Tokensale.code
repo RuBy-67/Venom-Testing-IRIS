@@ -1,0 +1,601 @@
+.version sol 0.62.0
+
+.macro constructor
+DROP
+GETGLOB 2
+ISNULL
+IFREF {
+	CALL $c4_to_c7_with_init_storage$
+}
+GETGLOB 6
+THROWIF 51
+OVER
+PUSHCONT {
+	LDREF
+	ENDS
+	CTOS
+}
+IF
+LDMSGADDR
+LDU 256
+LDU 128
+LDREF
+ENDS
+CTOS
+LDMSGADDR
+ENDS
+.loc ../contracts/Tokensale.tsol, 25
+ACCEPT
+.loc ../contracts/Tokensale.tsol, 26
+PUSHINT 1000000000
+PUSHINT 0
+RAWRESERVE
+.loc ../contracts/Tokensale.tsol, 27
+PUSH S3
+SETGLOB 12
+.loc ../contracts/Tokensale.tsol, 28
+SWAP
+SETGLOB 15
+.loc ../contracts/Tokensale.tsol, 29
+SWAP
+SETGLOB 14
+.loc ../contracts/Tokensale.tsol, 32
+PUSHINT 100000000
+MYADDR
+ROLL 3
+NEWC
+STSLICECONST x62_
+STSLICE
+PUSHINT 2820045005182170565370280386138670788247553
+STUR 143
+ROTREV
+PUSHSLICE x31edd4c749b2f6d7
+NEWC
+STSLICE
+STSLICE
+STU 128
+STBREFR
+ENDC
+PUSHINT 1
+SENDRAWMSG
+.loc ../contracts/Tokensale.tsol, 41
+NEWC
+STSLICECONST x42_
+STSLICE
+PUSHINT 111
+STZEROES
+ENDC
+PUSHPOW2 7
+SENDRAWMSG
+.loc ../contracts/Tokensale.tsol, 0
+CALLREF {
+	CALL $c7_to_c4$
+}
+THROW 0
+
+.macro onTokenWallet
+DROP
+GETGLOB 6
+THROWIFNOT 76
+GETGLOB 2
+ISNULL
+IFREF {
+	CALL $c4_to_c7$
+}
+.loc ../contracts/Tokensale.tsol, 44
+OVER
+PUSHCONT {
+	LDREF
+	ENDS
+	CTOS
+}
+IF
+LDMSGADDR
+ENDS
+.loc ../contracts/Tokensale.tsol, 0
+CALLREF {
+	CALL $onTokenWallet_e6d1bd58_internal_macro$
+}
+DROP
+CALLREF {
+	CALL $c7_to_c4$
+}
+THROW 0
+
+.macro onTokenWallet_e6d1bd58_internal_macro
+.loc ../contracts/Tokensale.tsol, 45
+GETGLOB 9
+PARSEMSGADDR
+INDEX 3
+PLDU 256
+NEQINT 0
+GETGLOB 9
+GETGLOB 12
+SDEQ
+AND
+THROWIFNOT 101
+.loc ../contracts/Tokensale.tsol, 50
+PUSHINT 1000000000
+PUSHINT 0
+RAWRESERVE
+.loc ../contracts/Tokensale.tsol, 51
+SETGLOB 13
+.loc ../contracts/Tokensale.tsol, 52
+GETGLOB 11
+NEWC
+STSLICECONST x42_
+STSLICE
+PUSHINT 111
+STZEROES
+ENDC
+PUSHPOW2 7
+SENDRAWMSG
+.loc ../contracts/Tokensale.tsol, 0
+
+.macro buyTokens
+DROP
+GETGLOB 6
+THROWIFNOT 76
+GETGLOB 2
+ISNULL
+IFREF {
+	CALL $c4_to_c7$
+}
+.loc ../contracts/Tokensale.tsol, 55
+OVER
+PUSHCONT {
+	LDREF
+	ENDS
+	CTOS
+}
+IF
+LDU 128
+ENDS
+.loc ../contracts/Tokensale.tsol, 0
+CALLREF {
+	CALL $buyTokens_0ced5b02_internal_macro$
+}
+IFREF {
+	CALL $upd_only_time_in_c4$
+}
+THROW 0
+
+.macro buyTokens_0ced5b02_internal_macro
+.loc ../contracts/Tokensale.tsol, 56
+PUSHINT 1000000000
+PUSHINT 0
+RAWRESERVE
+.loc ../contracts/Tokensale.tsol, 58
+DUP
+DEPTH
+ADDCONST -2
+PICK
+PUSHINT 1000000000
+ADD
+UFITS 128
+GREATER
+PUSHCONT {
+	.loc ../contracts/Tokensale.tsol, 59
+	GETGLOB 9
+	NEWC
+	STSLICECONST x42_
+	STSLICE
+	PUSHINT 111
+	STZEROES
+	ENDC
+	PUSHPOW2 7
+	SENDRAWMSG
+}
+PUSHCONT {
+	.loc ../contracts/Tokensale.tsol, 61
+	GETGLOB 15
+	OVER
+	MUL
+	UFITS 128
+	.loc ../contracts/Tokensale.tsol, 62
+	DUP
+	GETGLOB 14
+	GREATER
+	PUSHCONT {
+		.loc ../contracts/Tokensale.tsol, 63
+		GETGLOB 9
+		NEWC
+		STSLICECONST x42_
+		STSLICE
+		PUSHINT 111
+		STZEROES
+	}
+	PUSHCONT {
+		.loc ../contracts/Tokensale.tsol, 65
+		PUSHREF {
+		}
+		.loc ../contracts/Tokensale.tsol, 67
+		FALSE
+		GETGLOB 9
+		PUSHINT 100000000
+		GETGLOB 9
+		PUSH S5
+		GETGLOB 13
+		NEWC
+		STSLICECONST x62_
+		STSLICE
+		PUSHINT 1
+		STUR 111
+		ROLLREV 6
+		NEWC
+		STSLICECONST x73e22143
+		STU 128
+		STSLICE
+		STU 128
+		ROLLREV 3
+		NEWC
+		STSLICE
+		STI 1
+		STREF
+		STBREFR
+		STBREFR
+	}
+	IFELSE
+	ENDC
+	PUSHPOW2 7
+	SENDRAWMSG
+	.loc ../contracts/Tokensale.tsol, 0
+	DROP
+}
+IFELSE
+.loc ../contracts/Tokensale.tsol, 0
+DROP
+
+.macro c4_to_c7
+PUSHROOT
+CTOS
+LDU 256 ; pubkey c4
+LDU 64 ; pubkey timestamp c4
+LDU 1 ; ctor flag
+NIP
+LDU 16
+LDMSGADDR
+LDREF
+ENDS
+CTOS
+LDMSGADDR
+LDREF
+ENDS
+CTOS
+LDMSGADDR
+LDU 256
+LDU 128
+ENDS
+SETGLOB 15
+SETGLOB 14
+SETGLOB 13
+SETGLOB 12
+SETGLOB 11
+SETGLOB 10
+SETGLOB 3
+SETGLOB 2
+
+.macro c4_to_c7_with_init_storage
+PUSHROOT
+CTOS
+SBITS
+GTINT 1
+PUSHCONT {
+	PUSHINT 0
+	PUSHROOT
+	CTOS
+	PLDDICT ; D
+	PUSHINT 1
+	OVER
+	PUSHINT 64
+	DICTUGET
+	ZEROSWAPIFNOT
+	PUSHCONT {
+		PLDU 16
+	}
+	IF
+	PUSHINT 2
+	PUSH S2
+	PUSHINT 64
+	DICTUGET
+	PUSHCONT {
+		PUSHREFSLICE {
+			.blob x8000000000000000000000000000000000000000000000000000000000000000001_
+		}
+	}
+	IFNOT
+	PUSHREFSLICE {
+		.blob x8000000000000000000000000000000000000000000000000000000000000000001_
+	}
+	DUP
+	PUSHINT 0
+	DUP
+	SETGLOB 15
+	SETGLOB 14
+	SETGLOB 13
+	SETGLOB 12
+	SETGLOB 11
+	SETGLOB 10
+	PUSHINT 64
+	DICTUGET
+	THROWIFNOT 61
+	PLDU 256
+	SETGLOB 2
+	PUSHINT 0 ; timestamp
+	SETGLOB 3
+}
+IFREFELSE {
+	CALL $c4_to_c7$
+}
+
+.macro c7_to_c4
+GETGLOB 15
+GETGLOB 14
+GETGLOB 13
+GETGLOB 12
+GETGLOB 11
+GETGLOB 10
+GETGLOB 3
+GETGLOB 2
+NEWC
+STU 256
+STU 64
+STONE
+STU 16
+STSLICE
+ROLLREV 4
+NEWC
+STSLICE
+ROLLREV 3
+NEWC
+STSLICE
+STU 256
+STU 128
+STBREFR
+STBREFR
+ENDC
+POPROOT
+
+.macro upd_only_time_in_c4
+PUSHROOT
+CTOS
+LDU 256
+LDU 64
+NIP
+GETGLOB 3
+ROT
+NEWC
+STU 256
+STU 64
+STSLICE
+ENDC
+POPROOT
+
+.internal-alias :main_internal, 0
+.internal :main_internal
+PUSHROOT
+CTOS
+SBITS
+NEQINT 1
+SETGLOB 6
+PUSH S2
+CTOS
+LDU 4 ; bounced tail
+LDMSGADDR ; bounced src tail
+DROP
+SETGLOB 9
+MODPOW2 1
+IFRET
+OVER
+SEMPTY ; isEmpty
+IFJMPREF {
+	GETGLOB 6
+	THROWIFNOT 76
+}
+OVER
+LDUQ 32  ; [funcId] body' ok
+THROWIFNOT 60
+OVER
+IFNOTJMPREF {
+	GETGLOB 6
+	THROWIFNOT 76
+}
+SWAP
+CALLREF {
+	CALL $public_function_selector$
+}
+THROW 60
+
+.internal-alias :main_external, -1
+.internal :main_external
+PUSHROOT
+CTOS
+SBITS
+NEQINT 1
+SETGLOB 6
+PUSHREFSLICE {
+	.blob x8000000000000000000000000000000000000000000000000000000000000000001_
+}
+SETGLOB 9
+OVER
+CALLREF {
+	CALL $c4_to_c7_with_init_storage$
+}
+LDU 1 ; haveSign msgSlice
+SWAP
+PUSHCONT {
+	PUSHPOW2 9
+	LDSLICEX ; signatureSlice msgSlice
+	DUP
+	HASHSU ; signatureSlice msgSlice hashMsgSlice
+	SWAP
+	LDU 1 ; signatureSlice hashMsgSlice hasPubkey msgSlice
+	SWAP
+	PUSHCONT {
+		LDU 256 ; signatureSlice hashMsgSlice pubkey msgSlice
+		XCHG S3
+		SWAP
+	}
+	PUSHCONT {
+		XCHG S2
+		GETGLOB 2
+	}
+	IFELSE
+	CHKSIGNU ; msgSlice isSigned
+	THROWIFNOT 40
+}
+PUSHCONT {
+	LDU 1 ; hasPubkey msgSlice
+	SWAP
+	THROWIF 58
+}
+IFELSE
+LDU 64 ; timestamp msgSlice
+SWAP
+CALL $replay_protection_macro$
+LDU 32 ; expireAt msgSlice
+SWAP
+NOW ; msgSlice expireAt now
+GREATER ; msgSlice expireAt>now
+THROWIFNOT 57
+LDU 32 ; funcId body
+SWAP
+CALLREF {
+	CALL $public_function_selector$
+}
+THROW 60
+
+.macro _distributedTokenRoot
+DROP
+ENDS
+CALLREF {
+	CALL $c4_to_c7$
+}
+GETGLOB 12
+OVER
+PUSHCONT {
+	PUSHSLICE xc0000000000000000000000000a3886711
+	NEWC
+	STSLICE
+	STSLICE
+	ENDC
+	PUSHINT 0
+	SENDRAWMSG
+}
+IF
+THROW 0
+
+.macro _distributedTokenWallet
+DROP
+ENDS
+CALLREF {
+	CALL $c4_to_c7$
+}
+GETGLOB 13
+OVER
+PUSHCONT {
+	PUSHSLICE xc0000000000000000000000000d2942958
+	NEWC
+	STSLICE
+	STSLICE
+	ENDC
+	PUSHINT 0
+	SENDRAWMSG
+}
+IF
+THROW 0
+
+.macro _supply
+DROP
+ENDS
+CALLREF {
+	CALL $c4_to_c7$
+}
+GETGLOB 14
+OVER
+PUSHCONT {
+	PUSHSLICE xc0000000000000000000000000d30ac1cd
+	NEWC
+	STSLICE
+	STU 256
+	ENDC
+	PUSHINT 0
+	SENDRAWMSG
+}
+IF
+THROW 0
+
+.macro _rate
+DROP
+ENDS
+CALLREF {
+	CALL $c4_to_c7$
+}
+GETGLOB 15
+OVER
+PUSHCONT {
+	PUSHSLICE xc0000000000000000000000000e9253789
+	NEWC
+	STSLICE
+	STU 128
+	ENDC
+	PUSHINT 0
+	SENDRAWMSG
+}
+IF
+THROW 0
+
+.macro public_function_selector
+DUP
+PUSHINT 1236465367
+LEQ
+IFJMPREF {
+	DUP
+	PUSHINT 49452618
+	EQUAL
+	IFJMPREF {
+		CALL $buyTokens$
+	}
+	DUP
+	PUSHINT 115227027
+	EQUAL
+	IFJMPREF {
+		CALL $constructor$
+	}
+	DUP
+	PUSHINT 596141841
+	EQUAL
+	IFJMPREF {
+		CALL $_distributedTokenRoot$
+	}
+	DUP
+	PUSHINT 1236465367
+	EQUAL
+	IFJMPREF {
+		CALL $onTokenWallet$
+	}
+}
+DUP
+PUSHINT 1764046729
+LEQ
+IFJMPREF {
+	DUP
+	PUSHINT 1385441624
+	EQUAL
+	IFJMPREF {
+		CALL $_distributedTokenWallet$
+	}
+	DUP
+	PUSHINT 1393213901
+	EQUAL
+	IFJMPREF {
+		CALL $_supply$
+	}
+	DUP
+	PUSHINT 1764046729
+	EQUAL
+	IFJMPREF {
+		CALL $_rate$
+	}
+}
+

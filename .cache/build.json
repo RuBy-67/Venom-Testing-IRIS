@@ -1,0 +1,17 @@
+{
+    "contracts\\Sample.tsol": {
+        "modificationTime": 1711730458287
+    },
+    "contracts\\Tokensale.tsol": {
+        "modificationTime": 1712514027472
+    },
+    "C:\\Users\\beyer\\Desktop\\Venom-TEST\\Iris-Token\\node_modules\\@broxus\\tip3\\contracts\\interfaces\\IAcceptTokensTransferCallback.tsol": {
+        "modificationTime": 1712498928087
+    },
+    "C:\\Users\\beyer\\Desktop\\Venom-TEST\\Iris-Token\\node_modules\\@broxus\\tip3\\contracts\\interfaces\\ITokenRoot.tsol": {
+        "modificationTime": 1712498928106
+    },
+    "C:\\Users\\beyer\\Desktop\\Venom-TEST\\Iris-Token\\node_modules\\@broxus\\tip3\\contracts\\interfaces\\ITokenWallet.tsol": {
+        "modificationTime": 1712498928109
+    }
+}

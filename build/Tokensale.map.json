@@ -1,0 +1,2005 @@
+{
+  "map": {
+    "04c17089561c862b75c70c4ceb4289027ffd94a387efaae00674a60e2e52ed23": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 529
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 530
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 531
+      },
+      "32": {
+        "filename": "Tokensale.code",
+        "line": 534
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 535
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 536
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 537
+      },
+      "232": {
+        "filename": "Tokensale.code",
+        "line": 538
+      },
+      "240": {
+        "filename": "Tokensale.code",
+        "line": 539
+      },
+      "248": {
+        "filename": "Tokensale.code",
+        "line": 540
+      },
+      "264": {
+        "filename": "Tokensale.code",
+        "line": 541
+      },
+      "272": {
+        "filename": "Tokensale.code",
+        "line": 542
+      },
+      "280": {
+        "filename": "Tokensale.code",
+        "line": 543
+      },
+      "296": {
+        "filename": "Tokensale.code",
+        "line": 545
+      },
+      "304": {
+        "filename": "Tokensale.code",
+        "line": 546
+      }
+    },
+    "2444f92ef49ab3573628e46814d6829c28c5e40bdbf62d7654412d5caece8ed1": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 376
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 377
+      },
+      "24": {
+        "filename": "Tokensale.code",
+        "line": 378
+      },
+      "40": {
+        "filename": "Tokensale.code",
+        "line": 379
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 380
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 381
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 382
+      },
+      "88": {
+        "filename": "Tokensale.code",
+        "line": 383
+      },
+      "104": {
+        "filename": "Tokensale.code",
+        "line": 384
+      },
+      "120": {
+        "filename": "Tokensale.code",
+        "line": 385
+      },
+      "128": {
+        "filename": "Tokensale.code",
+        "line": 386
+      },
+      "144": {
+        "filename": "Tokensale.code",
+        "line": 387
+      },
+      "168": {
+        "filename": "Tokensale.code",
+        "line": 388
+      },
+      "176": {
+        "filename": "Tokensale.code",
+        "line": 389
+      },
+      "184": {
+        "filename": "Tokensale.code",
+        "line": 390
+      },
+      "200": {
+        "filename": "Tokensale.code",
+        "line": 391
+      },
+      "216": {
+        "filename": "Tokensale.code",
+        "line": 395
+      },
+      "224": {
+        "filename": "Tokensale.code",
+        "line": 396
+      },
+      "248": {
+        "filename": "Tokensale.code",
+        "line": 397
+      },
+      "264": {
+        "filename": "Tokensale.code",
+        "line": 398
+      },
+      "272": {
+        "filename": "Tokensale.code",
+        "line": 399
+      },
+      "288": {
+        "filename": "Tokensale.code",
+        "line": 403
+      },
+      "296": {
+        "filename": "Tokensale.code",
+        "line": 404
+      },
+      "312": {
+        "filename": "Tokensale.code",
+        "line": 407
+      }
+    },
+    "26f8ac94987a32263cca37dfbaf46c97ab2dab0cd2bbc49527669207c86915b1": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 553
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 554
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 555
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 556
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 559
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 560
+      },
+      "128": {
+        "filename": "Tokensale.code",
+        "line": 561
+      },
+      "136": {
+        "filename": "Tokensale.code",
+        "line": 562
+      },
+      "152": {
+        "filename": "Tokensale.code",
+        "line": 565
+      },
+      "160": {
+        "filename": "Tokensale.code",
+        "line": 566
+      },
+      "208": {
+        "filename": "Tokensale.code",
+        "line": 567
+      },
+      "216": {
+        "filename": "Tokensale.code",
+        "line": 568
+      },
+      "232": {
+        "filename": "Tokensale.code",
+        "line": 571
+      },
+      "240": {
+        "filename": "Tokensale.code",
+        "line": 572
+      },
+      "288": {
+        "filename": "Tokensale.code",
+        "line": 573
+      },
+      "296": {
+        "filename": "Tokensale.code",
+        "line": 574
+      }
+    },
+    "2ee37beda49f14139e3d88086ebae0bf82740ff02ae716c5ed554cf076993c69": {
+      "0": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 65
+      },
+      "8": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "16": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "32": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "80": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "96": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "104": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "120": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "128": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "152": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "160": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "168": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "192": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "208": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "216": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "264": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "280": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "288": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "304": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "320": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "328": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "336": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "352": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "360": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "368": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      }
+    },
+    "2fe72188bf0ae2dcba5eea4c02b2e8cb611a3ca4710be539c8005a3b2bcdf90a": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 77
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 78
+      },
+      "24": {
+        "filename": "Tokensale.code",
+        "line": 79
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 80
+      },
+      "64": {
+        "filename": "Tokensale.code",
+        "line": 81
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 82
+      },
+      "88": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 44
+      },
+      "96": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 44
+      },
+      "104": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 44
+      },
+      "112": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 44
+      },
+      "120": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 44
+      },
+      "128": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 44
+      },
+      "136": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 44
+      },
+      "152": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 44
+      },
+      "160": {
+        "filename": "Tokensale.code",
+        "line": 96
+      },
+      "176": {
+        "filename": "Tokensale.code",
+        "line": 99
+      },
+      "184": {
+        "filename": "Tokensale.code",
+        "line": 100
+      },
+      "200": {
+        "filename": "Tokensale.code",
+        "line": 103
+      }
+    },
+    "38ad454781117129c6edbffffb5e78b856d2ba8df6156ce36bff37e016f4d910": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 582
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 583
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 584
+      },
+      "64": {
+        "filename": "Tokensale.code",
+        "line": 585
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 588
+      },
+      "88": {
+        "filename": "Tokensale.code",
+        "line": 589
+      },
+      "136": {
+        "filename": "Tokensale.code",
+        "line": 590
+      },
+      "144": {
+        "filename": "Tokensale.code",
+        "line": 591
+      },
+      "160": {
+        "filename": "Tokensale.code",
+        "line": 594
+      },
+      "168": {
+        "filename": "Tokensale.code",
+        "line": 595
+      },
+      "216": {
+        "filename": "Tokensale.code",
+        "line": 596
+      },
+      "224": {
+        "filename": "Tokensale.code",
+        "line": 597
+      }
+    },
+    "58e9cec935fa382c005a4df0c1c198b9e4b0a6e84d94fbfd852104d54b07f6c8": {
+      "0": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 61
+      },
+      "16": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 61
+      },
+      "24": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 61
+      },
+      "32": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 61
+      },
+      "48": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 62
+      },
+      "56": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 62
+      },
+      "72": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 62
+      },
+      "80": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 62
+      },
+      "88": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 63
+      },
+      "104": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 63
+      },
+      "112": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 63
+      },
+      "136": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 63
+      },
+      "144": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 63
+      },
+      "160": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 63
+      },
+      "176": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 63
+      },
+      "192": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "200": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "208": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "224": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 67
+      },
+      "240": {
+        "filename": "Tokensale.code",
+        "line": 243
+      }
+    },
+    "5dccc87afec3b44812713d47279c20492b8f76319f1a074680e2a3bbcff62a77": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 303
+      }
+    },
+    "6b25644b0d7b2abff569b2e645cfe6a7ecebc103b9b3148cd268244ffca6adf2": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 136
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 137
+      },
+      "24": {
+        "filename": "Tokensale.code",
+        "line": 138
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 139
+      },
+      "64": {
+        "filename": "Tokensale.code",
+        "line": 140
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 141
+      },
+      "88": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 55
+      },
+      "96": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 55
+      },
+      "104": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 55
+      },
+      "112": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 55
+      },
+      "120": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 55
+      },
+      "128": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 55
+      },
+      "136": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 55
+      },
+      "152": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 55
+      },
+      "160": {
+        "filename": "Tokensale.code",
+        "line": 155
+      },
+      "176": {
+        "filename": "Tokensale.code",
+        "line": 158
+      },
+      "192": {
+        "filename": "Tokensale.code",
+        "line": 161
+      }
+    },
+    "73867e37ec1ffb9ecb087a37d71892215b0b805a73c127da219a28729084e2e0": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "7c98627dbcf0622a590c6f79432eac97005dbc83a1ee5e5ace64520a1b62a019": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 489
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 490
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 491
+      },
+      "32": {
+        "filename": "Tokensale.code",
+        "line": 494
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 495
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 496
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 497
+      },
+      "232": {
+        "filename": "Tokensale.code",
+        "line": 498
+      },
+      "240": {
+        "filename": "Tokensale.code",
+        "line": 499
+      },
+      "248": {
+        "filename": "Tokensale.code",
+        "line": 500
+      },
+      "256": {
+        "filename": "Tokensale.code",
+        "line": 501
+      },
+      "264": {
+        "filename": "Tokensale.code",
+        "line": 502
+      },
+      "272": {
+        "filename": "Tokensale.code",
+        "line": 503
+      },
+      "288": {
+        "filename": "Tokensale.code",
+        "line": 505
+      },
+      "296": {
+        "filename": "Tokensale.code",
+        "line": 506
+      }
+    },
+    "834db0ca86b7ad27c0ced2bec131e836c336dc7e62affe3f9ff32cc140ac5aff": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 284
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 285
+      },
+      "24": {
+        "filename": "Tokensale.code",
+        "line": 286
+      },
+      "32": {
+        "filename": "Tokensale.code",
+        "line": 287
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 288
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 289
+      },
+      "64": {
+        "filename": "Tokensale.code",
+        "line": 290
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 291
+      },
+      "96": {
+        "filename": "Tokensale.code",
+        "line": 292
+      },
+      "112": {
+        "filename": "Tokensale.code",
+        "line": 293
+      },
+      "120": {
+        "filename": "Tokensale.code",
+        "line": 294
+      },
+      "144": {
+        "filename": "Tokensale.code",
+        "line": 296
+      },
+      "152": {
+        "filename": "Tokensale.code",
+        "line": 297
+      },
+      "160": {
+        "filename": "Tokensale.code",
+        "line": 298
+      },
+      "168": {
+        "filename": "Tokensale.code",
+        "line": 299
+      },
+      "184": {
+        "filename": "Tokensale.code",
+        "line": 300
+      },
+      "200": {
+        "filename": "Tokensale.code",
+        "line": 301
+      },
+      "216": {
+        "filename": "Tokensale.code",
+        "line": 306
+      },
+      "224": {
+        "filename": "Tokensale.code",
+        "line": 307
+      },
+      "232": {
+        "filename": "Tokensale.code",
+        "line": 310
+      },
+      "240": {
+        "filename": "Tokensale.code",
+        "line": 311
+      },
+      "248": {
+        "filename": "Tokensale.code",
+        "line": 312
+      },
+      "256": {
+        "filename": "Tokensale.code",
+        "line": 313
+      },
+      "272": {
+        "filename": "Tokensale.code",
+        "line": 314
+      },
+      "288": {
+        "filename": "Tokensale.code",
+        "line": 315
+      },
+      "304": {
+        "filename": "Tokensale.code",
+        "line": 316
+      },
+      "320": {
+        "filename": "Tokensale.code",
+        "line": 317
+      },
+      "336": {
+        "filename": "Tokensale.code",
+        "line": 318
+      },
+      "352": {
+        "filename": "Tokensale.code",
+        "line": 319
+      },
+      "368": {
+        "filename": "Tokensale.code",
+        "line": 320
+      },
+      "384": {
+        "filename": "Tokensale.code",
+        "line": 321
+      },
+      "400": {
+        "filename": "Tokensale.code",
+        "line": 322
+      },
+      "424": {
+        "filename": "Tokensale.code",
+        "line": 323
+      },
+      "440": {
+        "filename": "Tokensale.code",
+        "line": 324
+      },
+      "448": {
+        "filename": "Tokensale.code",
+        "line": 325
+      }
+    },
+    "93d87c693adc67c78abe70ff8ae804336ff79c68ac8739fea7d0e033510b795b": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 549
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 550
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 551
+      },
+      "64": {
+        "filename": "Tokensale.code",
+        "line": 552
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 578
+      },
+      "88": {
+        "filename": "Tokensale.code",
+        "line": 579
+      },
+      "136": {
+        "filename": "Tokensale.code",
+        "line": 580
+      },
+      "144": {
+        "filename": "Tokensale.code",
+        "line": 581
+      }
+    },
+    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+    "9a9d35f427a3e0e4e693afc2c41c1747eb2537c13625b4801d4a3ef9b76215c2": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 332
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 333
+      },
+      "32": {
+        "filename": "Tokensale.code",
+        "line": 334
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 335
+      },
+      "64": {
+        "filename": "Tokensale.code",
+        "line": 336
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 337
+      },
+      "96": {
+        "filename": "Tokensale.code",
+        "line": 338
+      },
+      "112": {
+        "filename": "Tokensale.code",
+        "line": 339
+      },
+      "128": {
+        "filename": "Tokensale.code",
+        "line": 340
+      },
+      "136": {
+        "filename": "Tokensale.code",
+        "line": 341
+      },
+      "152": {
+        "filename": "Tokensale.code",
+        "line": 342
+      },
+      "168": {
+        "filename": "Tokensale.code",
+        "line": 343
+      },
+      "184": {
+        "filename": "Tokensale.code",
+        "line": 344
+      },
+      "200": {
+        "filename": "Tokensale.code",
+        "line": 345
+      },
+      "208": {
+        "filename": "Tokensale.code",
+        "line": 346
+      },
+      "224": {
+        "filename": "Tokensale.code",
+        "line": 347
+      },
+      "232": {
+        "filename": "Tokensale.code",
+        "line": 348
+      },
+      "240": {
+        "filename": "Tokensale.code",
+        "line": 349
+      },
+      "256": {
+        "filename": "Tokensale.code",
+        "line": 350
+      },
+      "264": {
+        "filename": "Tokensale.code",
+        "line": 351
+      },
+      "272": {
+        "filename": "Tokensale.code",
+        "line": 352
+      },
+      "288": {
+        "filename": "Tokensale.code",
+        "line": 353
+      },
+      "304": {
+        "filename": "Tokensale.code",
+        "line": 354
+      },
+      "312": {
+        "filename": "Tokensale.code",
+        "line": 355
+      },
+      "320": {
+        "filename": "Tokensale.code",
+        "line": 356
+      },
+      "328": {
+        "filename": "Tokensale.code",
+        "line": 357
+      }
+    },
+    "a39b622c0244220fe7fdf41987d0a1087598806608094a1bedcf12ea79f00ec0": {
+      "0": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 56
+      },
+      "48": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 56
+      },
+      "56": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 56
+      },
+      "72": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 58
+      },
+      "80": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 58
+      },
+      "88": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 58
+      },
+      "104": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 58
+      },
+      "112": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 58
+      },
+      "160": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 58
+      },
+      "168": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 58
+      },
+      "184": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 58
+      },
+      "192": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 58
+      },
+      "208": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "224": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "232": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "256": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "264": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "280": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "296": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "304": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "320": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "336": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 59
+      },
+      "352": {
+        "filename": "Tokensale.code",
+        "line": 245
+      },
+      "360": {
+        "filename": "Tokensale.code",
+        "line": 247
+      }
+    },
+    "a6ca179b02a826798b2336d769572555520f3bbbaf31ffe32fc7ffce08b0cb92": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 250
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 251
+      },
+      "24": {
+        "filename": "Tokensale.code",
+        "line": 252
+      },
+      "40": {
+        "filename": "Tokensale.code",
+        "line": 253
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 254
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 255
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 256
+      },
+      "96": {
+        "filename": "Tokensale.code",
+        "line": 257
+      },
+      "112": {
+        "filename": "Tokensale.code",
+        "line": 258
+      },
+      "120": {
+        "filename": "Tokensale.code",
+        "line": 259
+      },
+      "128": {
+        "filename": "Tokensale.code",
+        "line": 260
+      },
+      "136": {
+        "filename": "Tokensale.code",
+        "line": 261
+      },
+      "152": {
+        "filename": "Tokensale.code",
+        "line": 262
+      },
+      "160": {
+        "filename": "Tokensale.code",
+        "line": 263
+      },
+      "168": {
+        "filename": "Tokensale.code",
+        "line": 264
+      },
+      "176": {
+        "filename": "Tokensale.code",
+        "line": 265
+      },
+      "192": {
+        "filename": "Tokensale.code",
+        "line": 266
+      },
+      "208": {
+        "filename": "Tokensale.code",
+        "line": 267
+      },
+      "224": {
+        "filename": "Tokensale.code",
+        "line": 268
+      },
+      "232": {
+        "filename": "Tokensale.code",
+        "line": 269
+      },
+      "248": {
+        "filename": "Tokensale.code",
+        "line": 270
+      },
+      "264": {
+        "filename": "Tokensale.code",
+        "line": 271
+      },
+      "280": {
+        "filename": "Tokensale.code",
+        "line": 272
+      },
+      "296": {
+        "filename": "Tokensale.code",
+        "line": 273
+      },
+      "312": {
+        "filename": "Tokensale.code",
+        "line": 274
+      },
+      "328": {
+        "filename": "Tokensale.code",
+        "line": 275
+      },
+      "344": {
+        "filename": "Tokensale.code",
+        "line": 276
+      }
+    },
+    "b749150295d58bed79fad3c5f72c75042795764c1c2e151ab542226427afda68": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 411
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 412
+      },
+      "24": {
+        "filename": "Tokensale.code",
+        "line": 413
+      },
+      "40": {
+        "filename": "Tokensale.code",
+        "line": 414
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 415
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 416
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 419
+      },
+      "96": {
+        "filename": "Tokensale.code",
+        "line": 420
+      },
+      "104": {
+        "filename": "Tokensale.code",
+        "line": 421
+      },
+      "120": {
+        "filename": "Tokensale.code",
+        "line": 424
+      },
+      "136": {
+        "filename": "Tokensale.code",
+        "line": 425
+      },
+      "144": {
+        "filename": "Tokensale.code",
+        "line": 426
+      },
+      "160": {
+        "filename": "Tokensale.code",
+        "line": 427
+      },
+      "176": {
+        "filename": "Tokensale.code",
+        "line": 428
+      },
+      "192": {
+        "filename": "Tokensale.code",
+        "line": 429
+      },
+      "200": {
+        "filename": "Tokensale.code",
+        "line": 430
+      },
+      "216": {
+        "filename": "Tokensale.code",
+        "line": 431
+      },
+      "224": {
+        "filename": "Tokensale.code",
+        "line": 432
+      },
+      "240": {
+        "filename": "Tokensale.code",
+        "line": 433
+      },
+      "248": {
+        "filename": "Tokensale.code",
+        "line": 434
+      },
+      "256": {
+        "filename": "Tokensale.code",
+        "line": 435
+      },
+      "272": {
+        "filename": "Tokensale.code",
+        "line": 436
+      },
+      "280": {
+        "filename": "Tokensale.code",
+        "line": 437
+      },
+      "288": {
+        "filename": "Tokensale.code",
+        "line": 439
+      },
+      "296": {
+        "filename": "Tokensale.code",
+        "line": 440
+      },
+      "304": {
+        "filename": "Tokensale.code",
+        "line": 441
+      },
+      "320": {
+        "filename": "Tokensale.code",
+        "line": 443
+      },
+      "328": {
+        "filename": "Tokensale.code",
+        "line": 444
+      },
+      "344": {
+        "filename": "Tokensale.code",
+        "line": 445
+      },
+      "360": {
+        "filename": "Tokensale.code",
+        "line": 447
+      },
+      "368": {
+        "filename": "Tokensale.code",
+        "line": 448
+      },
+      "384": {
+        "filename": "Tokensale.code",
+        "line": 449
+      },
+      "392": {
+        "filename": "Tokensale.code",
+        "line": 450
+      },
+      "408": {
+        "filename": "Tokensale.code",
+        "line": 452
+      },
+      "416": {
+        "filename": "Tokensale.code",
+        "line": 453
+      },
+      "432": {
+        "filename": "Tokensale.code",
+        "line": 454
+      },
+      "440": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "456": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "464": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "488": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "496": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "512": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "536": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "544": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "584": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "592": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "600": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "616": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "632": {
+        "filename": "Tokensale.code",
+        "line": 456
+      },
+      "648": {
+        "filename": "Tokensale.code",
+        "line": 457
+      },
+      "656": {
+        "filename": "Tokensale.code",
+        "line": 458
+      },
+      "672": {
+        "filename": "Tokensale.code",
+        "line": 459
+      },
+      "680": {
+        "filename": "Tokensale.code",
+        "line": 460
+      },
+      "696": {
+        "filename": "Tokensale.code",
+        "line": 461
+      },
+      "712": {
+        "filename": "Tokensale.code",
+        "line": 462
+      },
+      "720": {
+        "filename": "Tokensale.code",
+        "line": 463
+      },
+      "736": {
+        "filename": "Tokensale.code",
+        "line": 466
+      }
+    },
+    "bd220dd8bd775d3172854704e67683ea9a8faf69cd67e6fab004630a22463976": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 509
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 510
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 511
+      },
+      "32": {
+        "filename": "Tokensale.code",
+        "line": 514
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 515
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 516
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 517
+      },
+      "232": {
+        "filename": "Tokensale.code",
+        "line": 518
+      },
+      "240": {
+        "filename": "Tokensale.code",
+        "line": 519
+      },
+      "248": {
+        "filename": "Tokensale.code",
+        "line": 520
+      },
+      "264": {
+        "filename": "Tokensale.code",
+        "line": 521
+      },
+      "272": {
+        "filename": "Tokensale.code",
+        "line": 522
+      },
+      "280": {
+        "filename": "Tokensale.code",
+        "line": 523
+      },
+      "296": {
+        "filename": "Tokensale.code",
+        "line": 525
+      },
+      "304": {
+        "filename": "Tokensale.code",
+        "line": 526
+      }
+    },
+    "d558e53bf690afc8a76b8887a99a49a52db1bd24bec5da84780ea0e7bc0aad3f": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 302
+      }
+    },
+    "d97426396123aec3acd8d5be6049f0ff47f5b3b99550398869cbaa5ed5e3e601": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 279
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 280
+      },
+      "24": {
+        "filename": "Tokensale.code",
+        "line": 281
+      },
+      "40": {
+        "filename": "Tokensale.code",
+        "line": 282
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 283
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 327
+      }
+    },
+    "e0cf4e3b86dbec7d858fa458ebc7faeef1053237dc735c10d4683c83d263da7f": {
+      "0": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "16": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "32": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "48": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "72": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "88": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "104": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "120": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "136": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "144": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 45
+      },
+      "168": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 50
+      },
+      "216": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 50
+      },
+      "224": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 50
+      },
+      "240": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 51
+      },
+      "256": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 52
+      },
+      "272": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 52
+      },
+      "280": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 52
+      },
+      "304": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 52
+      },
+      "312": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 52
+      },
+      "328": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 52
+      },
+      "344": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 52
+      },
+      "352": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 52
+      },
+      "368": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 52
+      }
+    },
+    "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 360
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 361
+      },
+      "24": {
+        "filename": "Tokensale.code",
+        "line": 362
+      },
+      "40": {
+        "filename": "Tokensale.code",
+        "line": 363
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 364
+      },
+      "64": {
+        "filename": "Tokensale.code",
+        "line": 365
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 366
+      },
+      "88": {
+        "filename": "Tokensale.code",
+        "line": 367
+      },
+      "96": {
+        "filename": "Tokensale.code",
+        "line": 368
+      },
+      "112": {
+        "filename": "Tokensale.code",
+        "line": 369
+      },
+      "128": {
+        "filename": "Tokensale.code",
+        "line": 370
+      },
+      "136": {
+        "filename": "Tokensale.code",
+        "line": 371
+      },
+      "144": {
+        "filename": "Tokensale.code",
+        "line": 372
+      }
+    },
+    "eb2d42a01204eadadd4dd28eb5132a55471fd3e73e4d05d19d92a1ab1a2036b1": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 469
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 470
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 471
+      },
+      "32": {
+        "filename": "Tokensale.code",
+        "line": 474
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 475
+      },
+      "56": {
+        "filename": "Tokensale.code",
+        "line": 476
+      },
+      "72": {
+        "filename": "Tokensale.code",
+        "line": 477
+      },
+      "232": {
+        "filename": "Tokensale.code",
+        "line": 478
+      },
+      "240": {
+        "filename": "Tokensale.code",
+        "line": 479
+      },
+      "248": {
+        "filename": "Tokensale.code",
+        "line": 480
+      },
+      "256": {
+        "filename": "Tokensale.code",
+        "line": 481
+      },
+      "264": {
+        "filename": "Tokensale.code",
+        "line": 482
+      },
+      "272": {
+        "filename": "Tokensale.code",
+        "line": 483
+      },
+      "288": {
+        "filename": "Tokensale.code",
+        "line": 485
+      },
+      "296": {
+        "filename": "Tokensale.code",
+        "line": 486
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 392
+      },
+      "16": {
+        "filename": "Tokensale.code",
+        "line": 393
+      }
+    },
+    "f5e17f7c1aba137be96589f937739a0c27c04ada3ce655374f1913e56178d9fd": {
+      "0": {
+        "filename": "Tokensale.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "Tokensale.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "Tokensale.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "Tokensale.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "Tokensale.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "Tokensale.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "Tokensale.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "Tokensale.code",
+        "line": 13
+      },
+      "96": {
+        "filename": "Tokensale.code",
+        "line": 14
+      },
+      "104": {
+        "filename": "Tokensale.code",
+        "line": 15
+      },
+      "112": {
+        "filename": "Tokensale.code",
+        "line": 16
+      },
+      "120": {
+        "filename": "Tokensale.code",
+        "line": 18
+      },
+      "128": {
+        "filename": "Tokensale.code",
+        "line": 19
+      },
+      "144": {
+        "filename": "Tokensale.code",
+        "line": 20
+      },
+      "160": {
+        "filename": "Tokensale.code",
+        "line": 21
+      },
+      "176": {
+        "filename": "Tokensale.code",
+        "line": 22
+      },
+      "184": {
+        "filename": "Tokensale.code",
+        "line": 23
+      },
+      "192": {
+        "filename": "Tokensale.code",
+        "line": 24
+      },
+      "200": {
+        "filename": "Tokensale.code",
+        "line": 25
+      },
+      "216": {
+        "filename": "Tokensale.code",
+        "line": 26
+      },
+      "224": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 25
+      },
+      "240": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 26
+      },
+      "288": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 26
+      },
+      "296": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 26
+      },
+      "312": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 27
+      },
+      "320": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 27
+      },
+      "336": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 28
+      },
+      "344": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 28
+      },
+      "360": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 29
+      },
+      "368": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 29
+      },
+      "384": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "432": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "448": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "464": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "472": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "496": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "504": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "664": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "688": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "696": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "776": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "784": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "792": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "800": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "816": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "824": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "832": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "840": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 32
+      },
+      "856": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 41
+      },
+      "864": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 41
+      },
+      "888": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 41
+      },
+      "896": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 41
+      },
+      "912": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 41
+      },
+      "928": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 41
+      },
+      "936": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 41
+      },
+      "952": {
+        "filename": "../contracts/Tokensale.tsol",
+        "line": 41
+      },
+      "968": {
+        "filename": "Tokensale.code",
+        "line": 71
+      },
+      "984": {
+        "filename": "Tokensale.code",
+        "line": 74
+      }
+    }
+  }
+}
